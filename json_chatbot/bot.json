@@ -13,7 +13,7 @@
   },
   {
     "response_type": "greeting",
-    "user_input": ["nice", "great"],
+    "user_input": ["nice", "great", "good"],
     "bot_response": "Okay! Please type something so we can chat.",
     "required_words": []
   },
